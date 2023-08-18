@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imrenmore
-- 👀 I’m interested in learning new coding languages and design.
-- 🌱 I’m currently learning different programming languages
+- 👀 I’m interested in learning new coding languages and front-end design.
+- 🌱 I’m currently learning how to use React
 - 💞️ I’m looking to collaborate on future coding programs
 
 
