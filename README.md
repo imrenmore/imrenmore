@@ -1,4 +1,3 @@
-# Overview
 - 👋 Hi, I’m Imren or @imrenmore!
 - 👀 I’m interested in learning new coding languages and front-end design.
 - 🌱 I’m currently learning how to use React
