@@ -1,4 +1,3 @@
-# Overview
 - 👋 Hi, I’m Imren or @imrenmore!
 - 👀 I’m interested in learning new coding languages and front-end design.
 - 🌱 I’m currently learning how to use React
@@ -13,12 +12,19 @@ Junior Computer Science Student | Passionate about Web Development
 Hi there! I'm Imren More, a computer science student with a strong passion for web development and creating user-centric experiences. I want to specialize in frontend technologies in the future and I enjoy solving complex problems.
 
 ## Skills
-- JavaScript 
-- React
-- HTML5/CSS3
-- Next.js
-- Git/GitHub
-- RESTful APIs
+![image](https://github.com/imrenmore/imrenmore/assets/98141213/c813de73-481f-4005-87f3-1764c39da383)
+![image](https://github.com/imrenmore/imrenmore/assets/98141213/cfdcea1f-9ae3-4e85-a3ca-861b4e77d061)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+## Work in Progress
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)](https://reactjs.org/)
+[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![RESTful API Badge](https://img.shields.io/badge/RESTful%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
 
 ## Projects
 
