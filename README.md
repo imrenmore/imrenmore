@@ -61,3 +61,4 @@ Feel free to reach out for collaboration, job opportunities, or just to chat:
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/imrenmore)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imrenmore/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/your_twitter_handle?style=for-the-badge&logo=twitter&logoColor=white&label=Follow)](https://twitter.com/imren_more)
+[![Discord Badge](https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Chat&message=your_username&color=7289DA)](https://discordapp.com/users/.imren)
