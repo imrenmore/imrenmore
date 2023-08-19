@@ -1,3 +1,4 @@
+# Overview
 - 👋 Hi, I’m Imren or @imrenmore!
 - 👀 I’m interested in learning new coding languages and front-end design.
 - 🌱 I’m currently learning how to use React
@@ -55,5 +56,7 @@ When I'm not coding, you can find me hiking or experimenting with new drawings a
 
 Feel free to reach out for collaboration, job opportunities, or just to chat:
 
-[![LinkedIn](linkedin_icon.png)](https://www.linkedin.com/in/imrenmore)
-[![Twitter](twitter_icon.png)](https://twitter.com/imren_more)
+
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/imrenmore)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imrenmore/)
