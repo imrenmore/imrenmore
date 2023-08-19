@@ -20,6 +20,24 @@ Hi there! I'm Imren More, a computer science student with a strong passion for w
 - Git/GitHub
 - RESTful APIs
 
+## Projects
+
+1. Five9 On Call Center
+A project tool used to track massive amounts of agent avalibility for our client with team collaboration!
+<a href="http://freegifmaker.me/"><img src="http://i.freegifmaker.me/1/6/9/2/4/0/16924045602027526.gif?1692404560" alt="gifs website"/></a><br/><a href="http://www.freegifmaker.me/"><a/>
+
+**Key Features:**
+- Real-time agent updates
+- Task assignment and progress tracking using Github for the first time
+- Team discussions and meetings with set deliverables
+  
+Steps:
+- npm install react-router-dom@6
+- npm install axios
+- node . (for backend)
+- cd into the project path
+- npm start
+
 ## Achievements
 
 - Accenture Certification in AI and AWS Technology Training
