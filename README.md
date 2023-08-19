@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Imren or @imrenmore!
-- 👀 I’m interested in learning new coding languages and front-end design.
-- 🌱 I’m currently learning how to use React
-- 💞️ I’m looking to collaborate on future coding programs
+- ⭐ I’m interested in learning new coding languages and front-end design.
+- 🕯️ I’m currently learning how to use React
+- ✨ I’m looking to collaborate on future coding programs
 
 # Imren's GitHub Portfolio
 
-Junior Computer Science Student | Passionate about Web Development
+Junior Computer Science Student 🎓| Passionate about Web Development👩🏻‍💻
 
-## About Me
+## About Me 🪴
 
 Hi there! I'm Imren More, a computer science student at Sacramento State University with a strong passion for web development and creating user-centric experiences. I want to specialize in frontend technologies in the future and I enjoy solving complex problems.
 
