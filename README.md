@@ -26,13 +26,6 @@ Hi there! I'm Imren More, a computer science student at Sacramento State Univers
 [![RESTful API Badge](https://img.shields.io/badge/RESTful%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 
-## Projects
-
-1. Five9 On Call Center
-A project tool used to track massive amounts of agent avalibility for our client with team collaboration!
-
-<a href="http://freegifmaker.me/"><img src="http://i.freegifmaker.me/1/6/9/2/4/0/16924045602027526.gif?1692404560" alt="gifs website"/></a><br/><a href="http://www.freegifmaker.me/"><a/>
-
 **Key Features:**
 - Real-time agent updates
 - Task assignment and progress tracking using Github for the first time
@@ -55,9 +48,6 @@ Steps:
 - LinkedIn: [linkedin.com/in/imrenmore](https://www.linkedin.com/in/imrenmore)
 - Portfolio Website: [imrenmore.online](https://www.imrenmore.online)
 
-## Fun Fact
-
-When I'm not coding, you can find me hiking or experimenting with new drawings and even ceramic pieces!
 
 ## Let's Connect
 
