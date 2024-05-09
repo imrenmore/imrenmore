@@ -26,18 +26,6 @@ Hi there! I'm Imren More, a computer science student at Sacramento State Univers
 [![RESTful API Badge](https://img.shields.io/badge/RESTful%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 
-**Key Features:**
-- Real-time agent updates
-- Task assignment and progress tracking using Github for the first time
-- Team discussions and meetings with set deliverables
-  
-Steps:
-- npm install react-router-dom@6
-- npm install axios
-- node . (for backend)
-- cd into the project path
-- npm start
-
 ## Achievements
 
 - Accenture Certification in AI and AWS Technology Training
