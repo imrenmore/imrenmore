@@ -7,7 +7,7 @@
 
 Junior Computer Science Student 🎓| Passionate about Web Development👩🏻‍💻
 
-## About Me🪴
+## About Me 
 
 Hi there! I'm Imren More, a computer science student at Sacramento State University with a strong passion for web development and creating user-centric experiences. I want to specialize in frontend technologies in the future and I enjoy solving complex problems.
 
@@ -34,7 +34,6 @@ Hi there! I'm Imren More, a computer science student at Sacramento State Univers
 
 - Email: imrenmore@csus.edu
 - LinkedIn: [linkedin.com/in/imrenmore](https://www.linkedin.com/in/imrenmore)
-- Portfolio Website: [imrenmore.online](https://www.imrenmore.online)
 
 
 ## Let's Connect
