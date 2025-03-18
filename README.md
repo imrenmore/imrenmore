@@ -5,7 +5,7 @@
 
 # Imren's GitHub Portfolio
 
-Junior Computer Science Student 🎓| Passionate about Web Development👩🏻‍💻
+Computer Science & Math Student 🎓
 
 ## About Me 
 
@@ -18,8 +18,6 @@ Hi there! I'm Imren More, a computer science student at Sacramento State Univers
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-## Work in Progress
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)](https://reactjs.org/)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -38,11 +36,8 @@ Hi there! I'm Imren More, a computer science student at Sacramento State Univers
 
 ## Let's Connect
 
-Feel free to reach out for collaboration, job opportunities, or just to chat:
-
-
+Feel free to reach out:
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/imrenmore)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imrenmore/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/imren_more?style=for-the-badge&logo=twitter&logoColor=white&label=Follow)](https://twitter.com/imren_more)
 [![Discord Badge](https://img.shields.io/static/v1?style=for-the-badge&logo=discord&label=Chat&message=.imren&color=7289DA)](https://discordapp.com/users/.imren)
