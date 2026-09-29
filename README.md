@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Imren or @imrenmore!
-- ⭐ I’m interested in learning new coding languages and front-end design.
-- 🕯️ I’m currently learning how to use React
+- ⭐ I’m interested in learning new programming languages
+- 🕯️ I’m currently learning how to use Go
 - ✨ I’m looking to collaborate on future coding programs
 
 # Imren's GitHub Portfolio
@@ -9,7 +9,7 @@ Computer Science & Math Student 🎓
 
 ## About Me 
 
-Hi there! I'm Imren More, a computer science student at Sacramento State University with a strong passion for web development and creating user-centric experiences. I want to specialize in frontend technologies in the future and I enjoy solving complex problems.
+Hi there! I'm Imren More, a computer science student at Cornell Tech with a strong passion for web development and creating user-centric experiences. I want to specialize in buidling technologies in the future and I enjoy solving complex problems.
 
 ![image](https://github.com/imrenmore/imrenmore/assets/98141213/c813de73-481f-4005-87f3-1764c39da383)
 ![image](https://github.com/imrenmore/imrenmore/assets/98141213/cfdcea1f-9ae3-4e85-a3ca-861b4e77d061)
@@ -27,7 +27,7 @@ Hi there! I'm Imren More, a computer science student at Sacramento State Univers
 
 ## Contact
 
-- Email: imrenmore@csus.edu
+- Email: im436@cornell.edu
 - LinkedIn: [linkedin.com/in/imrenmore](https://www.linkedin.com/in/imrenmore)
 
 
